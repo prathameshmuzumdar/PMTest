@@ -6,5 +6,9 @@ In the second branch, add the name of the repo in the text file.
 
 Then merge all to the master branch
 
+<<<<<<< .merge_file_a10548
 p1: ISM 7911
 
+=======
+p2: PMTest
+>>>>>>> .merge_file_a13688
